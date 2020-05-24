@@ -1,0 +1,52 @@
+[
+  {
+      "id": 0,
+      "name" : "Ah! Megami Sama!",
+      "nameslug": "ahmegamisama",
+      "img": "/images/a.jpg",      
+      "descricao":"Keiichi Morisato está ansioso para a vida universitária. Mas, na realidade, ele não tem sorte em alguma coisa, e ele tem problemas com os clubes, amor, etc A verdade é que ele tem uma estrela azarado acima de sua cabeça. Um dia, Keiichi é preso assistindo o dormitório enquanto seus sempai estiver longe, e tem um monte de tarefas a fazer para arrancar.",
+      "ano": 2005,
+      "qtdepisodio": 24,
+      "studio": "AIC",
+      "status": "Completo",
+      "genere":["Comédia","Echhi"]   
+  },
+  {
+    "id": 1,
+    "name" : "B Gata H Kei",
+    "nameslug": "bgatahkei",
+    "img": "/images/b.jpeg",
+    "descricao":"A história é sobre uma garota safadinha chamada Yamada que pretende criar 100 amigos de sexo durante seu terceiro grau de estudo.",
+    "ano": 2010,
+    "qtdepisodio": 12,
+    "studio": "Hail Film Maker",
+    "status": "Completo",
+    "genere":["Ação","Comédia","Seinen","Echhi"] 
+    
+},
+{
+  "id": 2,
+  "name" : "Circlet Princess",
+  "nameslug": "circletprincess",
+  "img": "/images/c.jpeg",
+  "descricao":"A história se em um futuro onde a Realidade Virtual e Realidade Aumentada dominaram o cotiano das pessoas, e agora a verba das escolas é decidida por um game usando as duas tecnologias",
+  "ano": 2019,
+  "qtdepisodio": 12,
+  "studio": "Silver Link",
+  "status": "Completo",
+  "genere":["Ação"] 
+},
+{
+  "id": 3,
+  "name" : "Dragon Ball Super",
+  "nameslug": "dragonballsuper",
+  "img": "/images/d.jpeg",
+  "descricao":"Sete anos após os eventos do Dragon Ball Z, a Terra está em paz, e suas pessoas vivem livres de quaisquer perigos que espreitam no universo.",
+  "ano": 2015,
+  "qtdepisodio": 90,
+  "studio": "Toei Animation",
+  "status": "Completo",
+  "genere":["Ação","Luta"]
+  
+}       
+]
