@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "name" : "Ah! Megami Sama!",
+        "nameslug": "ahmegamisama",
+        "img": "/images/a.jpg",
+        "descricao":"Keiichi Morisato está ansioso para a vida universitária. Mas, na realidade, ele não tem sorte em alguma coisa, e ele tem problemas com os clubes, amor, etc A verdade é que ele tem uma estrela azarado acima de sua cabeça. Um dia, Keiichi é preso assistindo o dormitório enquanto seus sempai estiver longe, e tem um monte de tarefas a fazer para arrancar.",
+        "ano": 2005,
+        "qtdepisodio": 24,
+        "studio": "AIC",
+        "status": "Completo",
+        "genere":{
+          "acao": 1,
+          "comedia":1,
+          "fantasia":1,
+          "romance":1,
+          "seinen": 1,
+          "echhi": 1,
+          "drama": 0,
+          "terror":0,
+          "esporte": 0        
+        }
+    }
+]

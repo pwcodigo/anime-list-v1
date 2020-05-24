@@ -1,8 +1,7 @@
 export default {
-    name:"Buscar",
-    template: `
-        <div class="container">
-            <section >
+    name:"Buscar",   
+    template: `        
+            <section>
                 <div class="boxprocurar">
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
@@ -12,7 +11,6 @@ export default {
                             <input type="text" class="form-control" placeholder="" aria-label="procure anime" aria-describedby="procurar anime">
                     </div>
                 </div>
-            </section>
-        </div>
+            </section> 
     `,
 }

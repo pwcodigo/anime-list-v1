@@ -1,0 +1,7 @@
+Lista de Tarefas 
+   Input para pesquisar [ x ]
+   Puxar os dados da API em JSON e exibir o anime digitado [ ]
+   Puxar dados da API em JSON para exibir todos animes [x]
+   Sair a lista de baixo quando digitar o nome de um anime para pesquisar []
+   Clicar no link e mostrar modal com detalhes sobre o anime [ ]
+   Melhorar visual do site [ ]

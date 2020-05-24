@@ -17,13 +17,16 @@
 <body>
     <div id="app" class="container">
         <buscar></buscar>
+        <recentes></recentes>
     </div>
     <script type="module">
         // Aqui estou importanto
         import Buscar from "./components/Buscar.js";
-        
+        import Recentes from "./components/Recentes.js";
+
         // Componenete Global
-        Vue.component("Buscar",Buscar);  
+        Vue.component("Buscar",Buscar);
+        Vue.component("Recentes",Recentes);  
 
         const vm = new Vue({
             el:"#app",
